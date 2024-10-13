@@ -2,7 +2,7 @@
 
 Nextcloud Atomic aims to be the easiest and most robust setup for running your own Nextcloud server. It takes care of the underlying operating system, backups, https configuration, disk management and more.
 
-[More information at nextcloudatomic.com](https://nextcloudatomic.com)
+More information at [nextcloudatomic.com](https://nextcloudatomic.com)
 
 ## Funding
 
